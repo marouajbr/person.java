@@ -1,6 +1,6 @@
 package person;
 
-public class person {
+public class Person {
 
     private String firstName;
     private String lastName;
